@@ -1,3 +1,2 @@
-print('hello git e vscode')
-rint('hello git e vscode')
-rint('hello git e vscode')
+mendagem = "Hello Word! Utilizando git no VScode"
+print(mensagem)
