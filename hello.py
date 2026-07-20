@@ -1,2 +1,1 @@
-mendagem = "Hello Word! Utilizando git no VScode"
-print(mensagem)
+pprint ('Olá GitHub')
